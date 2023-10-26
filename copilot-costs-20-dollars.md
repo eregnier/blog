@@ -25,7 +25,7 @@ and last but not least, imagine a tool that generate metrics to study all of thi
 
 Oh W8 !
 
-I have hard time to think really copilot costs M$ 20 $ / user, even if it costs 20 $ / user to github company 😃.
+I have hard time beliving copilot costs M$ 20 $ / user, even if it costs 20 $ / user to github company 😃.
 
 I made a simple short list of business relations that I know at my level and I guess there are a lot more.
  
